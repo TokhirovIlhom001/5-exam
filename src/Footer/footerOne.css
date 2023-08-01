@@ -1,0 +1,48 @@
+.footer{
+    display: flex;
+    height: 100px;
+    gap: 40px;
+    background-color: #282B30;
+    text-align: start;
+
+}
+
+.footer_one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #282B30;
+}
+
+.footer_one-logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer_logo-p {
+    width: 200px;
+    margin: 20px;
+    color: white;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.footer_text-p {
+    width: 300px;
+    margin: 20px;
+    font-family: Gilroy;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: white;
+}
+
+.footer_one-btn {
+    margin: 20px;
+}

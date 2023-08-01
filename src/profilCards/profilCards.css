@@ -1,0 +1,157 @@
+.profil_cards {
+    box-shadow: 2px 2px 3px 3px #888888;
+    margin: 20px;
+}
+
+.profil_cards-object {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+
+.profil_cards_one {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profil_cards-p {
+    font-family: Gilroy;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 30px;
+    color: grey;
+}
+
+.profil_cards-sum {
+    font-family: Gilroy;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 20px;
+    color: grey;
+}
+
+.profil_cards-data {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 20px;
+    color: grey;
+}
+
+.cards_right-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+    border-radius: 5px;
+    margin: 20px;
+    border: 1px solid #19D476;
+    background-color: white;
+}
+
+.cards_right-btn:hover {
+    background-color: #19D476;
+}
+
+.cards_btn-green {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #11B462 ;
+    border-radius: 50%;
+    background-color: #11B462;
+    color: white;
+}
+
+.cards_btn-green:hover {
+    background-color: white;
+    color: #11B462;
+}
+
+.cards_left-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px;
+    border: 1px solid blue;
+    background-color: white;
+}
+
+.cards_left-btn:hover {
+    background-color: blue;
+}
+
+
+.cards_btn-blue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #304FFF ;
+    border-radius: 50%;
+    background-color: #304FFF;
+    color: white;
+}
+
+.cards_btn-blue:hover {
+    background-color: white;
+    color: #304FFF;
+}
+
+.cards_the {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 1px 2px 2px 2px #888888;
+
+}
+
+.profil_cards-information {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 500px;
+    margin-left: 150px;
+}
+
+.cards_information-blue {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: blue;
+    margin: 20px;
+}
+
+.cards_information-p {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: grey;
+    margin: 20px;
+}

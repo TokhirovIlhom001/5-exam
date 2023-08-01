@@ -1,0 +1,46 @@
+
+.cards_div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: initial;
+    /* border: 1px solid; */
+    flex-wrap: wrap;
+}
+
+.home_cards {
+    max-width: 250px;
+    width: 100%;
+    /* border: 1px solid; */
+    margin: 10px;
+    font-size: 100%;
+    /* display: flex; */
+    margin-bottom: 30px;
+}
+
+.cards_image {
+    width: 300px;
+    height: 300px;
+    font-size: 100%;
+}
+
+.cards_p {
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-bottom: 20px;
+
+}
+
+.cards_price {
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}

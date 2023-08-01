@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1100px;
+}
+
+
+.logo_div {
+    display: flex;
+}
+
+.logo_p {
+    font-family: Gilroy;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 150px;
+    margin: 17px;
+}
+
+
+.nav_menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.site_nav-menu {
+    margin: 20px;
+}

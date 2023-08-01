@@ -1,0 +1,118 @@
+
+.profil_shot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid; */
+    /* margin-right: 150px; */
+    border-bottom: 1px solid;
+}
+
+.shot_name {
+    font-family: Gilroy;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.shot_left-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.shot_left-p {
+    color: blue;
+}
+
+.shot_left-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+    border-radius: 5px;
+    margin: 20px;
+    border: 1px solid #19D476;
+    background-color: white;
+}
+
+
+.shot_left-btn:hover {
+    background-color: #19D476;
+}
+
+.shot_btn-puls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    /* color: white; */
+    border: 1px solid #11B462 ;
+    border-radius: 50%;
+    background-color: #11B462;
+}
+
+.shot_btn-puls:hover {
+    background-color: white;
+}
+
+.profil_main-hover {
+    display: flex;
+    width: 700px;
+    margin-left: 125px;
+    margin-top: 30px;
+}
+
+.hover_one-div:hover {
+    border: 1px solid;
+}
+
+.main_hovers {
+    color: grey;
+}
+
+.main_hovers:hover {
+    color: blue;
+    border-bottom: 1px  solid;
+}
+
+.profil_object-border {
+    width: 1000px;
+    border-top: 1px solid;
+}
+
+.profil_object-name {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 700px;
+    margin-left: 65px;
+    /* border-top: 1px solid; */
+}
+
+.profil_object-right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.profil_object-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profil_object-p {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 25px;
+}

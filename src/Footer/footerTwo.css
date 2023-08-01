@@ -1,0 +1,58 @@
+
+
+.footer_two {
+    display: flex;
+    background-color: #33383C;
+}
+
+.footer_series {
+    margin-top: 60px;
+}
+
+.series_nick {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: white;
+    margin-top: 40px;
+}
+
+.series_p {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(135, 143, 153, 1);
+}
+
+.footer_three {
+    display: flex;
+    background-color: #33383C;
+}
+
+.footer_green-text {
+    font-family: Gilroy;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #05F3B3 ;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.footer_white-text {
+    font-family: Gilroy;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: white ;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
